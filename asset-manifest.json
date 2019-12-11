@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/robousers/static/css/main.78144bf6.chunk.css",
+    "main.js": "/robousers/static/js/main.1dba4c64.chunk.js",
+    "main.js.map": "/robousers/static/js/main.1dba4c64.chunk.js.map",
+    "runtime-main.js": "/robousers/static/js/runtime-main.80d2fb72.js",
+    "runtime-main.js.map": "/robousers/static/js/runtime-main.80d2fb72.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/robousers/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.54ad65e9.chunk.js": "/robousers/static/js/2.54ad65e9.chunk.js",
+    "static/js/2.54ad65e9.chunk.js.map": "/robousers/static/js/2.54ad65e9.chunk.js.map",
+    "index.html": "/robousers/index.html",
+    "precache-manifest.3333d6f13bf76c932cdc7b1f19ee74b2.js": "/robousers/precache-manifest.3333d6f13bf76c932cdc7b1f19ee74b2.js",
+    "service-worker.js": "/robousers/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/robousers/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.78144bf6.chunk.css.map": "/robousers/static/css/main.78144bf6.chunk.css.map",
+    "static/js/2.54ad65e9.chunk.js.LICENSE": "/robousers/static/js/2.54ad65e9.chunk.js.LICENSE",
+    "static/media/App.css": "/robousers/static/media/TRON.ec223666.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80d2fb72.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.54ad65e9.chunk.js",
+    "static/css/main.78144bf6.chunk.css",
+    "static/js/main.1dba4c64.chunk.js"
+  ]
+}
